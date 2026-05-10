@@ -4,7 +4,7 @@ AutoLISP utility for batch plotting user-defined rectangular areas from AutoCAD 
 
 ## Purpose
 
-BatchPlot was created for situations where the standard Publish workflow is unavailable.
+BatchPlot was created for situations where the standard Publish workflow is unavailable or impractical.
 
 The user marks drawing areas with closed rectangular polylines on a dedicated layer, and the script exports each region as a separate PDF file.
 
